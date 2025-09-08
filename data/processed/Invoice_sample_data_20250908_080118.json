@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "processing_time": "2025-09-08T08:01:18.372377",
+    "document_type": "Invoice",
+    "success": true
+  },
+  "text": {
+    "raw_text": "\u2018arnpnaloLAB\nCOMMERCIAL\nINVOICE\n\n&B COMPANY NAME\n\nSLOGAN GOES MERE\n\nFo mw ABONNG AGENT cart POR NLA,\nCy ener s1o0oe74:29\nRAO mn oxoer oenue\n\u2018sspaemmocnoe4d 700 cmon cand menses\nsmo8r mito\n\nSOCAL STORE IMPORTING COMPANY\n\nPS Come men Ure 100M vty tae\n\nTSAO Hew Tost, US inaeitome tt\n\nOsn ime 368 00 esa aaa scare\n\nmtomoca tee (om\nfom rriaccosseses\n\nConveyor tet 25\u00b0\n\nrenee us 4365 2292 2 1290.00 400.90\n\nPoke oh bracket\n\nCommer ot ern US Asses 745 a $35.00 88.00\n\nPoke wah biachet\n\ntoner etewe vA as65 745 1 183.00 e500\n\nPole wet a actet\n\nContry ot orn UF aasas res 1 $85.00 $88.00\n\nPole wan Seater\n\nCreer ot ogee ABSeS D545 1 $3500 s28.00\n\nWester amen. NOT CLUOLD Sn Tote 148300\n\nRecean tor caper SAL Sona Meee $100.00\n\nincoterms DAF wrtance 19.00\npalpebral \u2018Sales Tan OVA) #11700\n\nframber of pockapes, units, weight, oft.)\n\nPane :200u820u1 SOOM (15 Mag I<\n+ Carton Bos 1501700. 100mm 115 Tags Joc, Totat 970200\n\n",
+    "detailed_text": ""
+  },
+  "entities": {
+    "dates": [],
+    "organizations": [
+      "Poke oh bracket\n",
+      "NAME\n\nSLOGAN GOES MERE\n\nFo mw ABONNG AGENT cart POR NLA",
+      "e500\n\nPole wet a actet\n",
+      "sspaemmocnoe4d 700 cmon cand menses\nsmo8r mito\n\nSOCAL STORE IMPORTING COMPANY\n\nPS",
+      "arnpnaloLAB\nCOMMERCIAL\nINVOICE\n\n&B",
+      "om\nfom rriaccosseses\n",
+      "PS Come men Ure 100M vty tae\n\nTSAO Hew Tost"
+    ],
+    "persons": [],
+    "money": [
+      "$35.00",
+      "$85.00",
+      "$100.00",
+      "$3500",
+      "$88.00"
+    ],
+    "quantities": [],
+    "locations": [],
+    "products": []
+  },
+  "financial_data": {
+    "totals": [],
+    "taxes": [],
+    "dates": [],
+    "ids": []
+  },
+  "sentiment": {
+    "label": "NEUTRAL",
+    "score": 0.5,
+    "urgency": "LOW",
+    "positive_keywords": 0,
+    "negative_keywords": 0,
+    "urgent_keywords": 0
+  }
+}
