@@ -29,3 +29,21 @@ data/processed/
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
+# Uploaded files
+uploads/
+
+# Processed images
+processed_image*
+
+# Ignore environment variables file (often contains secrets)
+.env
+
+# Ignore Python packaging/build directories
+build/
+dist/
+*.egg-info/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
